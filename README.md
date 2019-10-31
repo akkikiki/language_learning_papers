@@ -2,7 +2,7 @@
 
 ## Language Learning (as one of the downstream tasks)
 * Workshop on Innovative Use of NLP for Building Educational Applications (BEA) 
- * [2018](https://www.aclweb.org/anthology/volumes/W18-05/) [2019](https://www.aclweb.org/anthology/volumes/W19-44/)
+  * [2018](https://www.aclweb.org/anthology/volumes/W18-05/), [2019](https://www.aclweb.org/anthology/volumes/W19-44/)
 * A Trainable Spaced Repetition Model for Language Learning, ACL 2016 [pdf](https://www.aclweb.org/anthology/P16-1174.pdf)
 * Accelerating Human Learning with Deep Reinforcement Learning, NeurIPS 2017 Workshop: Teaching Machines, Robots, and Humans [pdf](http://people.eecs.berkeley.edu/~reddy/files/DRL_Tutor_NIPS17_MT_Workshop.pdf)
 * Deep Reinforcement Learning of Marked Temporal Point Processes, NeurIPS 2018 [pdf](http://papers.nips.cc/paper/7579-deep-reinforcement-learning-of-marked-temporal-point-processes.pdf)
